@@ -1,6 +1,4 @@
 # react-monocle
-[![Build Status](https://travis-ci.org/team-gryff/react-monocle.svg?branch=master)](https://travis-ci.org/team-gryff/react-monocle) [![npm version](https://badge.fury.io/js/react-monocle.svg)](https://badge.fury.io/js/react-monocle)
-
 <img src="react/assets/logo.png" width="300"/>
 
 </br>
@@ -56,12 +54,6 @@ The rendered tree is synced up to the state(s) of your component using Redux, an
 * Support for React-Router
 * Support for Redux
 
-
-
-## Our Team
-* Michael-Bryant Choa - [github.com/mbchoa](https://github.com/mbchoa)
-* Jenna Davis - [github.com/jdavis218](https://github.com/jdavis218)
-* Jerry Mao - [github.com/jerrymao15](https://github.com/jerrymao15)
 
 ## License
 MIT
